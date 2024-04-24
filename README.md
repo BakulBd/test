@@ -38,4 +38,12 @@
   </a>
 </p>
 
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakulbd&show_icons=true&locale=en&layout=compact" alt="bakulbd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakulbd&show_icons=true&locale=en" alt="bakulbd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakulbd&" alt="bakulbd" /></p>
+
 <p align="center">Feel free to explore my repositories and reach out. Let's collaborate and shape the future of technology! 🌍🚀</p>
