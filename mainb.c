@@ -1,7 +1,7 @@
 #include<stdio.h>
-int main()
-{
-    int a;
-    
-    return 0;
+#define sum(x,y) (x+y)
+int main(){
+int y=5;
+printf("Hello World");
+
 }
