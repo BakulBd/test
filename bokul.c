@@ -1,6 +1,7 @@
 #include<stdio.h>
+#define sum(a,b) (a+b)
 int main()
 {
-    hi
+    printf("%d",sum(5,5));
     return 0;
 }
